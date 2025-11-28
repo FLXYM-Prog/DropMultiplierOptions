@@ -1,0 +1,8 @@
+{
+  "Name": "DropMultiplierOptions",
+  "DisplayName": "Drop Multiplier Options (Mobile)",
+  "Desc": "Choose your drop multiplier: x10, x100, x500, x999, x9999.",
+  "Author": "Kai",
+  "UIPackage": null,
+  "Dependencies": null
+}
