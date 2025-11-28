@@ -1,0 +1,7 @@
+<Defs>
+    <LootOverride>
+        <GlobalDropMultiplier>9999</GlobalDropMultiplier>
+        <MinDrop>9999</MinDrop>
+        <MaxDrop>9999</MaxDrop>
+    </LootOverride>
+</Defs>
